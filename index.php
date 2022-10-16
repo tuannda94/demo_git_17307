@@ -16,3 +16,5 @@ Có 2 chiều làm việc: Github <====> Thư mục ở local (git local)
 Các công đoạn làm việc với git
 1. Code ở trên 1 nhánh nào đó
 2. Kiểm tra sự thay đổi ở trên phần mềm github desktop
+3. Đóng gói code lại và dán nhãn (commit)
+4. Public repository (Tạo thư mục trên github bằng github desktop) và đẩy phần code vừa rồi lên
