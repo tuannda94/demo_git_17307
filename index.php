@@ -41,3 +41,6 @@ Khi code đã được đẩy lên và muốn được gộp vào nhánh gốc
 4. Thành viên phụ trách công việc kiểm tra code sẽ xem và bấm Merge
 5. Các thành viên về github desktop -> quay về nhánh main -> Bấm Fetch orgin & Pull origin để có code mới nhất
 6. Làm việc tiếp ở nhánh mới
+
+Khi B đụng vào file này sau đó đẩy code lên,
+và C cũng đụng vào file này nhưng lúc C đụng vào thì nhánh main chưa có code của B
