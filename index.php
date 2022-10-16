@@ -41,3 +41,6 @@ Khi code đã được đẩy lên và muốn được gộp vào nhánh gốc
 4. Thành viên phụ trách công việc kiểm tra code sẽ xem và bấm Merge
 5. Các thành viên về github desktop -> quay về nhánh main -> Bấm Fetch orgin & Pull origin để có code mới nhất
 6. Làm việc tiếp ở nhánh mới
+
+Khi C sửa file index.php nhưng trước đó B cũng đã sửa nhưng
+thời điểm C làm thì chưa có code của B -> C và B sẽ bị đè code nhau (conflict)
