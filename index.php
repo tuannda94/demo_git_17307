@@ -27,3 +27,9 @@ Nếu tạo thư mục code mới và muốn đẩy lên git
 4. Github desktop sẽ tự đóng gói code đang có vào 1 commit "Initial commit"
 5. Public repository: tạo tên thư mục muốn lưu ở github sau đó bấm -> có code trên github
 
+
+Nếu là thành viên tiếp theo kéo code về để làm tiếp
+1. Vào github desktop: Ấn vào current repository -> Add -> Clone
+2. Copy link github của bạn A vào và lựa chọn thư mục muốn tải về
+3. Bấm clone và bắt đầu vào code
+4. Tạo 1 nhánh mới để làm việc tránh làm đè vào cùng 1 nhánh (nhánh vừa tạo được rẽ từ nhánh gốc là nhánh main)
