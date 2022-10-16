@@ -33,3 +33,11 @@ Nếu là thành viên tiếp theo kéo code về để làm tiếp
 2. Copy link github của bạn A vào và lựa chọn thư mục muốn tải về
 3. Bấm clone và bắt đầu vào code
 4. Tạo 1 nhánh mới để làm việc tránh làm đè vào cùng 1 nhánh (nhánh vừa tạo được rẽ từ nhánh gốc là nhánh main)
+
+Khi code đã được đẩy lên và muốn được gộp vào nhánh gốc
+1. Bấm Compare & pull request
+2. Kiểm tra lại code so sánh giữa 2 nhánh (Split để chia đôi màn hình)
+3. Bấm Create pull request
+4. Thành viên phụ trách công việc kiểm tra code sẽ xem và bấm Merge
+5. Các thành viên về github desktop -> quay về nhánh main -> Bấm Fetch orgin & Pull origin để có code mới nhất
+6. Làm việc tiếp ở nhánh mới
